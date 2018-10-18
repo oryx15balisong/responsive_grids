@@ -1,4 +1,23 @@
+body {
+  
+  background-color:#FFEFBD;
+  
+}
+
 @media (max-width : 768px) {
-   #top_menu {display:none};  
+   body {
+     background-color:#E5CA95;
+   }
+   #top_menu {
+      display:none;
+      
+   }
+   .col-3 {
+         width: 50%;
+            
+   }
+   .col-5 {   
+   	   width: 100%;
+   }
  
  }
